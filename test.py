@@ -4,4 +4,6 @@ print("This is the test.py file")
 #more than likeley main.py would call test.py
 
 name = ("Sal")
-print("my name is " name)
+print(name)
+
+#Maybe the above works better
